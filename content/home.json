@@ -49,7 +49,9 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "collection_id": "61a6cb3a0c7c727225ae12db:categories:PULSEIRA:/pulseira",
+      "title": "PULSEIRA"
     },
     {
       "type": "info-bar",
