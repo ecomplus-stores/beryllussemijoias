@@ -54,6 +54,14 @@
       "title": "PULSEIRA"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61a6cbbc0c7c727225ae13d1:categories:ÓCULOS:/oculos",
+      "title": "ÓCULOS"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     }
