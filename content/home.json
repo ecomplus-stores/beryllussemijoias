@@ -16,7 +16,10 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "collection_id": "61a6caf90c7c727225ae125b:categories:CONJUNTOS:/conjuntos",
+      "sort": "views",
+      "title": "Conjuntos"
     },
     {
       "type": "collection-shelf",
