@@ -1394,12 +1394,6 @@
     </url>
   
     <url>
-      <loc>https://beryllussemijoias.com.br/beryllus</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://beryllussemijoias.com.br/anel</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1473,6 +1467,12 @@
   
     <url>
       <loc>https://beryllussemijoias.com.br/brincos-medios-e-grandes</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://beryllussemijoias.com.br/beryllus</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
