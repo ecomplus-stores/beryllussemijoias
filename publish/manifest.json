@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.690c280e2efa87419d1869f9005f8604.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.92ab7d30d7be3cfa3535b4e5f74a8b7e.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.34e4b511bc9e47c80a2592342ab57870.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.82efa28d6d4583f64a91b850109758b9.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.b0680f5fdc35ec641627d5deefff395c.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "BERYLLUS SEMIJOIAS E ACESSÓRIOS",
+  "short_name": "beryllussemijoias",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "beryllussemijoias",
+  "background_color": "#ffffff",
+  "theme_color": "#7c171b"
+}
